@@ -86,7 +86,7 @@ $$
 ### Matrix multiplication
 
 The general definition of matrix multiplication, multiplying a matrix $A$ of 
-$m \times n$ with another matrix $B$ of $n \times p $ to give a third matrix $C$:  
+$m \times n$ with another matrix $B$ of $n \times p$ to give a third matrix $C$:  
 
 $$
 c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j} + \cdot \cdot \cdot  + a_{in}b_{nj} = \sum_{k=1}^{n}a_{ik}b_{kj}
