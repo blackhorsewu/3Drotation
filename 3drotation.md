@@ -45,8 +45,9 @@ $$ A =
 $$
 
 Any vector in this coordinate frame can be described/represented by its projection on each 
-of the axes. For example, a vector $V$= $\left[ \begin{array}{rrr} 2 & 3 & 4 \end{array} \right]^T$ 
-can be represented by three vectors along its axes as: 
+of the axes. For example, a vector $V$ = $\left[ \begin{array}{rrr} 2 & 3 & 4 \end{array} \right]^T$ 
+can be represented by three vectors along its axes as:  
+
 $$
 X =
 \left[ \begin{array}{r}
@@ -69,7 +70,8 @@ Z =
 $$
 
 It can be seen that they can be obtained by multiplying the vector $V$ with the 
-coordinate matrix $A$ on the left, as :
+coordinate matrix $A$ on the left, as:  
+
 $$
 \left[ \begin{array}{rrr}
 1 & 0 & 0 \\
@@ -84,7 +86,8 @@ $$
 ### Matrix multiplication
 
 The general definition of matrix multiplication, multiplying a matrix $A$ of 
-$m \times n$ with another matrix $B$ of $n \times p $ to give a third matrix $C$:
+$m \times n$ with another matrix $B$ of $n \times p $ to give a third matrix $C$:  
+
 $$
 c_ij = a_{i1}b_{1j} + a_{i2}b_{2j} + \cdot \cdot \cdot  + a_{in}b_{nj} = \sum_{k=1}^{n}a_{ik}b_{kj}
 $$
