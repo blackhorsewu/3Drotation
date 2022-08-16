@@ -34,7 +34,8 @@ $$
 $$  
 
 Or, this coordinate frame can be represented, in a compact way, by a matrix by putting 
-these unit vectors as columns of a matrix, and give this frame a name, say $A$ as: 
+these unit vectors as columns of a matrix, and give this frame a name, say $A$ as:  
+
 $$ A = 
 \left[ \begin{array}{rrr}
 1 & 0 & 0 \\
